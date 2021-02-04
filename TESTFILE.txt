@@ -1,0 +1,6 @@
+exec twopage.txt test1.txt
+help
+set Sharon awesome
+print Sharon
+run fulltest.txt
+quit

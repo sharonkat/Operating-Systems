@@ -1,0 +1,39 @@
+help
+set y 20
+set a alpha
+set z mary
+set z bob
+set a 1
+set y 30
+print y
+print z
+print a
+help
+set y 20
+set a alpha
+set z mary
+set z bob
+set a 1
+set y 30
+print y
+print z
+print a
+help
+set y 20
+set a alpha
+set z mary
+set z bob
+set a 1
+set y 30
+print y
+print z
+print a
+help
+set y 20
+set a alpha
+set z mary
+set z bob
+set a 1
+set y 30
+print y
+quit

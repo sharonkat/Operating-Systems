@@ -1,0 +1,8 @@
+help
+set y 20
+print y
+set a alpha
+print a
+set z 1
+print z
+quit
